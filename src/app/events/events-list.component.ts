@@ -24,6 +24,7 @@ export class EventListComponent {
           time: '10:00 am',
           price: 599.99,
           imageUrl: '/assets/images/angularconnect-shield.png',
+          onlineUrl: '',
           location: {
             address: '1057 DT',
             city: 'London',
@@ -102,6 +103,7 @@ export class EventListComponent {
           time: '9:00 am',
           price: 950.00,
           imageUrl: '/assets/images/ng-nl.png',
+          onlineUrl: 'http://ng-nl.org',
           location: {
             address: 'The NG-NL Convention Center & Scuba Shop',
             city: 'Amsterdam',
@@ -162,6 +164,7 @@ export class EventListComponent {
           time: '9:00 am',
           price: 759.00,
           imageUrl: '/assets/images/ng-conf.png',
+          onlineUrl: '',
           location: {
             address: 'The Palatial America Hotel',
             city: 'Salt Lake City',
@@ -244,6 +247,7 @@ export class EventListComponent {
           time: '8:00 am',
           price: 800.00,
           imageUrl: '/assets/images/basic-shield.png',
+          onlineUrl: '',
           location: {
             address: 'The UN Angular Center',
             city: 'New York',
@@ -293,6 +297,7 @@ export class EventListComponent {
           time: '9:00 am',
           price: 400.00,
           imageUrl: '/assets/images/ng-vegas.png',
+          onlineUrl: '',
           location: {
             address: 'The Excalibur',
             city: 'Las Vegas',
