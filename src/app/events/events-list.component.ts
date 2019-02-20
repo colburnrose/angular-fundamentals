@@ -34,7 +34,7 @@ export class EventListComponent {
             {
               id: 1,
               name: "Using Angular 4 Pipes",
-              presenter: "Peter Bacon Darwin",
+              presenter: 'Peter Bacon Darwin',
               duration: 1,
               level: "Intermediate",
               abstract: `Learn all about the new pipes in Angular 4, both 
